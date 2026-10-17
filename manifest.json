@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T11:58:47Z",
+ "updated": "2026-10-17T12:10:02Z",
  "kinds": {
   "av": {
-   "count": 1020,
+   "count": 1021,
    "fail": 12,
    "deferred": 0,
    "bytes": 2877466
@@ -14,12 +14,12 @@
    "bytes": 3994670
   },
   "cv": {
-   "count": 81961,
-   "fail": 46,
-   "deferred": 2158,
-   "bytes": 666147270
+   "count": 81941,
+   "fail": 0,
+   "deferred": 0,
+   "bytes": 666494394
   }
  },
- "elapsed_s": 17,
- "total_bytes": 673019406
+ "elapsed_s": 27,
+ "total_bytes": 673366530
 }
