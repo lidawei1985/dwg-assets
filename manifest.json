@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:24:10Z",
+ "updated": "2026-10-17T19:33:19Z",
  "kinds": {
   "av": {
    "count": 1021,
@@ -15,8 +15,8 @@
   },
   "cv": {
    "count": 81961,
-   "fail": 45,
-   "deferred": 2184,
+   "fail": 0,
+   "deferred": 0,
    "bytes": 666266568
   }
  },
