@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-15T08:35:59Z",
+ "updated": "2026-11-15T09:46:04Z",
  "kinds": {
   "av": {
-   "count": 1868,
-   "fail": 36,
+   "count": 1885,
+   "fail": 37,
    "deferred": 0,
-   "bytes": 5364352
+   "bytes": 5415842
   },
   "kv": {
-   "count": 183,
+   "count": 187,
    "fail": 0,
    "deferred": 0,
-   "bytes": 10327366
+   "bytes": 10528626
   },
   "cv": {
-   "count": 83482,
-   "fail": 15,
-   "deferred": 3401,
-   "bytes": 671930388
+   "count": 83458,
+   "fail": 0,
+   "deferred": 0,
+   "bytes": 671983876
   }
  },
- "elapsed_s": 10,
- "total_bytes": 687622106
+ "elapsed_s": 8,
+ "total_bytes": 687928344
 }
