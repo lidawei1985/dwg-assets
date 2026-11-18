@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:27:23Z",
+ "updated": "2026-11-18T22:29:47Z",
  "kinds": {
   "av": {
    "count": 1956,
@@ -14,12 +14,12 @@
    "bytes": 10957942
   },
   "cv": {
-   "count": 83484,
-   "fail": 0,
-   "deferred": 0,
-   "bytes": 672640266
+   "count": 83510,
+   "fail": 15,
+   "deferred": 3528,
+   "bytes": 672500276
   }
  },
- "elapsed_s": 7,
- "total_bytes": 689220652
+ "elapsed_s": 26,
+ "total_bytes": 689080662
 }
